@@ -1,8 +1,14 @@
-const app = require("./src/app")
+const app = require('./src/app')
+const dotEnv = require('dotenv')
 
-const PORT = 8080 
+dotEnv.config();
+const PORT = process.env.PORT
 
 
-app.listen(PORT, function(){
-    console.log(`Bem Vindo ao Aqui Tem Bolsas! Nossa porta é ` + PORT)
-})
+app.listen(PORT, (err) => {
+  if (err) {
+    console.log(`Error: ${err}`);
+  }
+  console.log(`O app esta rodando em http://localhost: ${PORT}`);
+
+}); 

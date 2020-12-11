@@ -12,3 +12,20 @@ Aqui tem bolsas é a facilidade de encontrar bolsas de estudo em um único lugar
 Na maioria das vezes por falta de informação e renda, muitas pessoas acham que não terá oportunidade de estudar.  A ideia é divulgar o site em redes sociais, para qualquer pessoa ter as informações que é possível ter oportunidades de estudos. 
 
 A Plataforma é a captação de bolsas oferecidas por instituições e ongs, com o intuito de ajudar as pessoas que buscam oportunidade de estudo e uma qualificação profissional. 
+
+Infraestrutura: 
+Heroku
+
+
+
+Ferramentas utilizadas: 
+Linguaguem de Programação = JavaScript
+Gerenciador bankend = Nodejs
+Teste API= Postman
+Banco de dados = MongoDB
+Depedencias para auxiliar durante o desenvolvimento:
+Nodemon
+mongooose
+cors()
+
+
