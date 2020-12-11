@@ -1,5 +1,3 @@
-//const{ req, res} = require("express")
-//const { projetoCollection } = require("../models/bolsasSchema")
 const aquiTemBolsas = require("../models/bolsasSchema")
 
 
