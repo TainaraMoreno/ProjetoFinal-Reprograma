@@ -3,7 +3,7 @@
 
 # Aqui Tem Bolsas
 
-![logo](https://github.com/TainaraMoreno/)
+![logo](https://github.com/TainaraMoreno/ProjetoFinal-Reprograma/tree/main/img)
 
 
 ## O projeto
