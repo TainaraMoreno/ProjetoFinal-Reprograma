@@ -1,0 +1,124 @@
+[
+    
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Depilador",
+        "descricao":"Você aprenderá como utilizar técnicas de depilação facial e corporal, usar materiais como roll-on, cera fria e quente, planejar e gerenciar sua carreira e precificar seu trabalho. ",
+        "data_curso":"03/05 a 29/06/2021",
+        "inscricao_bolsa":"23/05/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-depilador"
+    },
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Drenagem Linfática Manual",
+        "descricao":"Você aprenderá a aplicar técnicas manuais de drenagem linfática corporal e facial, seguindo os métodos Vodder e Leduc.",
+        "data_curso":"23/02 a 19/02/2021",
+        "inscricao_bolsa":"13/02/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-drenagem-linfatica-manual-turmas-a-partir-de-janeiro-de-2021-turmas-a-partir-de-janeiro-de-2021"
+    },            
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Aromaterapia",
+        "descricao":"Você aprenderá a usar os óleos essenciais e conhecerá seus benefícios e efeitos energéticos para a saúde, o bem-estar e a aplicação para o marketing olfativo.",
+        "data_curso":"23/02 a 12/03/2021",
+        "inscricao_bolsa":"13/02/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-aromaterapia"
+    },
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Massagem com Óleos",
+        "descricao":"Você aprenderá a fazer massagem relaxante com óleos essenciais e vegetais, ajudando clientes a desintoxicar o organismo e melhorar a qualidade de vida.",
+        "data_curso":"23/02 a 09/03/2021",
+        "inscricao_bolsa":"13/02/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-massagem-com-oleos"
+    },
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Massagem Relaxante",
+        "descricao":"Você aprenderá a fazer massagem relaxante para aliviar dores, tensões e melhorar a circulação sanguínea de clientes, ajudando na desintoxicação do organismo e melhora na qualidade de vida.",
+        "data_curso":"09/03 a 06/04/2021",
+        "inscricao_bolsa":"27/02/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-massagem-relaxante"
+    },
+    {       
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Tecnologia da informação",
+        "curso":"Execel - Criando planilhas interativa e dashbord",
+        "descricao":"Você aprenderá a usar funções e fórmulas no Excel para criar planilhas e gráficos dinâmicos que facilitam a compreensão de dados e informações e agilizam os processos de trabalho.",
+        "data_curso":"03/05 a 14/05/2021",
+        "inscricao_bolsa":"23/04/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-excel-criando-planilhas-interativas-e-dashboard"
+    },
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"Excel - Ferramentas para análise",
+        "descricao":"Você aprenderá a usar ferramentas e recursos avançados do Excel para otimizar a análise de dados e informações em planilhas e auxiliar nas decisões estratégicas empresariais.",
+        "data_curso":"26/01/2021 a 29/01/2021",
+        "inscricao_bolsa":"16/01/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-excel-ferramentas-para-analise"
+    },
+    {
+        "instituicao":"Senac",
+        "unidade":"Senac Aclimação",
+        "area":"Beleza e Estética",
+        "curso":"SketchUp Pro",
+        "descricao":"Você aprenderá como criar modelos 3D e maquete eletrônica, utilizando recursos do SketchUp Pro. ",
+        "data_curso":"05/04/2021 a 30/04/2021",
+        "inscricao_bolsa":"26/03/2021",
+        "url":"https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-sketchup-pro"
+    },
+    {
+        "instituicao":"Espaço Kaparaó",
+        "unidade":"Araraquara",
+        "area":"Administrativo",
+        "curso":"Assistente administrativo",
+        "descricao":" O profissional Assistente Administrativo realiza atividades de apoio administrativo relacionadas aos processos de gestão de pessoas, logística, marketing, comercialização, finanças e do jurídico de uma organização, atendendo à solicitação de clientes internos e externos.",
+        "data_curso":"10/02/2021 a 10/05/2021",
+        "inscricao_bolsa":"21/01/2021",
+        "url":"http://www.araraquara.sp.gov.br/governo/secretarias/assistencia-e-desenvolvimento-social/paginas-desenvolvimento/conteudo/espaco-kaparao"
+    },
+    {
+        "instituicao":"Espaço Kaparaó",
+        "unidade":"Araraquara",
+        "area":"Moda",
+        "curso":"Corte e Costura",
+        "descricao":"Com o curso de corte e costura da Sigbol, você pode trabalhar em casa, oficinas de reformas ou ateliês de costura com peças básicas voltadas à moda feminina, masculina e infantil. Na indústria, é possível integrar uma linha de produção no manuseio de máquina reta e overloque para produzir diversas etapas de um vestuário.",
+        "data_curso":"10/02/2021 a 10/05/2021",
+        "inscricao_bolsa":"21/01/2021",
+        "url":"http://www.araraquara.sp.gov.br/governo/secretarias/assistencia-e-desenvolvimento-social/paginas-desenvolvimento/conteudo/espaco-kaparao"
+    },
+    {
+        "instituicao":"Espaço Kaparaó",
+        "unidade":"Araraquara",
+        "area":"Culinária",
+        "curso":"Padeiro especial",
+        "descricao":"Você aprenderá técnicas de panificação e seus conteúdos, panificação tradicional, especial, enriquecida, internacional, fermentação natural, manipulação, preparação de ingredientes para a panificação, noções de segurança e higiene na cozinha, formas de evitar a contaminação dos alimentos e empreendedorismo.",
+        "data_curso":"10/02/2021 a 10/05/2021",
+        "inscricao_bolsa":"21/01/2021",
+        "url":"http://www.araraquara.sp.gov.br/governo/secretarias/assistencia-e-desenvolvimento-social/paginas-desenvolvimento/conteudo/espaco-kaparao"
+    },
+    {
+        "instituicao":"Teste atualização",
+        "unidade":"cidade",
+        "area":"Diversas",
+        "curso":"Assistente",
+        "descricao":" O profissional Assistente.",
+        "data_curso":"10/02/2021 a 10/05/2021",
+        "inscricao_bolsa":"21/01/2021",
+        "url":"http://www.araraquara.sp.gov.br"
+    }            
+      
+]
