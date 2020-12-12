@@ -81,9 +81,10 @@ O testes realizados foram:
  * Teste Unitário
  * Teste de Integração
  * Teste de Aceite Operacional (Teste Funcional)
-    OBS: Desejável a implementação de teste automatizado da API,  usando a ferramenta Robot Framework
+    
+**OBS: Desejável a implementação de teste automatizado da API,  usando a ferramenta Robot Framework
 
- ### Evid~encia dos Testes
+ ### Evidência dos Testes
   
 
 
