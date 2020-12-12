@@ -49,25 +49,16 @@ A Plataforma é a captação de bolsas oferecidas por instituições e ongs, com
 
 **EndPoints**
 
-    | Método | Recurso | Descrição |
-    | --- | --- | --- |
-    | GET | /bolsas | Retorna todos as bolsas |
+Método  |  Recurso               |  Descrição                             | 
+--------|------------------------|----------------------------------------|
+GET     |      /bolsas           |  Retorna todas as bolsas               |
+POST    | /bolsas/criar          |  Cadastra uma nova bolsa               |
+GET     | /bolsas/:id            |  Retorna uma bolsa pelo identificador  |
+PUT     | /bolsas/atualizar/:id  |  Atualiza uma bolsa                    |
+DELETE  | /bolsas/delete/:id     |  Deleta uma bolsa                      |
 
-    | Método | Recurso | Descrição |
-    | --- | --- | --- |
-    | POST | /bolsas/criar| cadastra uma nova bolsa |
 
-    | Método | Recurso | Descrição |
-    | --- | --- | --- |
-    | GET | /bolsas/:id | Retorna uma bolsas pelo identificador|
 
-    | Método | Recurso | Descrição |
-    | --- | --- | --- |
-    | PUT | /bolsas/atualizar/:id | Atualiza a bolsa|
-
-    | Método | Recurso | Descrição |
-    | --- | --- | --- |
-    | DELETE | /exercise/deletar/:id | Deleta a bolsa|
 
 ## Tecnologias Utilizadas:
 
@@ -83,7 +74,16 @@ A Plataforma é a captação de bolsas oferecidas por instituições e ongs, com
 * Postman
 
 
+## Qualidade 
+Foram realizados testes para a garantia da qualidade da API 
+O testes realizados foram: 
+ * Caixa Branca
+ * Teste Unitário
+ * Teste de Integração
+ * Teste de Aceite Operacional (Teste Funcional)
 
+ ### Evid~encia dos Testes
+  
 
 
 
