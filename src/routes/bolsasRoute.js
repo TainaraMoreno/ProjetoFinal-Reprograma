@@ -9,9 +9,9 @@ router.post("/criar", controller.criarBolsa)
 
 router.get("/:id", controller.getById)
 
-router.put("/:id", controller.atualizarBolsa)
+router.put("/atualiar/:id", controller.atualizarBolsa)
 
-router.delete("/:id", controller.deletarBolsa)
+router.delete("/deletar/:id", controller.deletarBolsa)
 
 
 module.exports = router
